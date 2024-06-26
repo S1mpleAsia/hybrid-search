@@ -1,0 +1,5 @@
+weaviate-client
+tqdm
+pandas
+numpy
+flask

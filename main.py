@@ -5,8 +5,8 @@ import os.path
 
 app = Flask(__name__)
 
-weaviate_url = "https://hybrid-search-4hthz7rh.weaviate.network"
-weaviate_api_key = "cOsZkTut0aUUJjZQx4tF9WuzC0Pf8lgtctZt"
+weaviate_url = "https://hybrid-search-cls6g7ms.weaviate.network"
+weaviate_api_key = "ebTLtXdOLSgZOrZjdN4aItLxpesc40LZLJIH"
 weaviate_client = WeaviateClient(weaviate_url, weaviate_api_key)
 
 
